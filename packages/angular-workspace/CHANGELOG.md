@@ -1,10 +1,46 @@
 # @astrouxds/angular
 
+## 7.26.1
+
+### Patch Changes
+
+#### Container
+
+-   Remove console log
+
+## 7.26.0
+
+### Minor Changes
+
+#### Global Status Bar
+
+- Added a new `compact` prop to allow for a more condensed layout
+
+#### Tabs
+
+- Added a new `compact` prop to allow for a more condensed tab layout
+
+### Patch Changes
+
+- Updated dependencies [0016be82]
+- Updated dependencies [1a4c9735]
+  - @astrouxds/astro-web-components@7.26.0
+
+## 7.25.2
+
+### Patch Changes
+
+#### Segmented Button
+
+- Added shadow parts to ul and li elements of segmented button to allow for better styling of the component
+
 ## 7.25.1
 
 ### Patch Changes
 
--   05969436: Correcting background value of rux-ruler to be a token so it works in light and dark themes.
+#### Ruler
+
+- Correcting background value of rux-ruler to be a token so it works in light and dark themes.
 
 ## 7.25.0
 

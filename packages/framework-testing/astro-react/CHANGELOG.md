@@ -1,5 +1,25 @@
 # astro-react
 
+## 0.6.1
+
+### Patch Changes
+
+- Remove console log
+
+## 0.6.0
+
+### Minor Changes
+
+- 0016be82: Add compact property to rux-tabs
+- 1a4c9735: Add compact prop to global status bar
+
+## 0.5.1
+
+### Patch Changes
+
+- 4a5755ea: Backlog of neglected dependabot prs
+- d633ea5b: Add li and ul parts to segmented buttons
+
 ## 0.5.0
 
 ### Minor Changes

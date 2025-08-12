@@ -1,5 +1,37 @@
 # astro-vue
 
+## 0.6.1
+
+### Patch Changes
+
+- Remove console log
+- Updated dependencies
+  - @astrouxds/astro-web-components@7.26.1
+
+## 0.6.0
+
+### Minor Changes
+
+- 0016be82: Add compact property to rux-tabs
+- 1a4c9735: Add compact prop to global status bar
+
+### Patch Changes
+
+- Updated dependencies [0016be82]
+- Updated dependencies [1a4c9735]
+  - @astrouxds/astro-web-components@7.26.0
+
+## 0.5.1
+
+### Patch Changes
+
+- 4a5755ea: Backlog of neglected dependabot prs
+- d633ea5b: Add li and ul parts to segmented buttons
+- Updated dependencies [22836c53]
+- Updated dependencies [4a5755ea]
+- Updated dependencies [d633ea5b]
+  - @astrouxds/astro-web-components@7.25.2
+
 ## 0.5.0
 
 ### Minor Changes
